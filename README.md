@@ -1,1 +1,1 @@
-# Alzheimer-Dete
+# Alzheimer-Detec
