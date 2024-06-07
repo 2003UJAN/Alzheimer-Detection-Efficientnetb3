@@ -1,1 +1,1 @@
-# Alzheime
+# Alzheimer
