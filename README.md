@@ -1,1 +1,1 @@
-# Alzheimer-Detection-Efficientne
+# Alzheimer-Detection-Efficientnet
