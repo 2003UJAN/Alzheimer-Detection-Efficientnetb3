@@ -1,1 +1,1 @@
-# Alzheimer-Detection-Efficient
+# Alzheimer-Detection-Efficientn
